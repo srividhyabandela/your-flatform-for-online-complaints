@@ -1,1 +1,1 @@
-# your-flatform-for-online-complaints
+# your-platform-for-online-complaints
